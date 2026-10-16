@@ -1,0 +1,7 @@
+﻿.env
+.venv312/
+__pycache__/
+*.pkl
+
+.venv
+.venv312
